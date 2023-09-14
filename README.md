@@ -1,3 +1,4 @@
 # react-native-app
+
 <br>
-Author - Sundas Nawaz
+Author - Sundas Nawaz Abdul Aziz
